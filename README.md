@@ -1,1 +1,1 @@
-# Golang API wrapper client for https://www.energidataservice.dk
+# Go client for https://www.energidataservice.dk
