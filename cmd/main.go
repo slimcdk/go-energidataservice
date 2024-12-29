@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/joho/godotenv"
-	"github.com/slimcdk/go-eloverblik"
+	"github.com/slimcdk/go-eloverblik/v1"
 )
 
 func prettyPrint(emp ...interface{}) {
